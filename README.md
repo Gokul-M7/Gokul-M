@@ -67,7 +67,7 @@
   *Jan 2025*
 
 - **National Cadet Corps — Leading Cadet**  
-  *2023 – 2026*
+  *2023 – 2025*
 
 ---
 
@@ -124,30 +124,3 @@ Upload plant images → Detect disease → Get remedies.
 [GitHub](https://github.com/Gokul-M7) •  
 [LeetCode](https://leetcode.com/u/gokulm2005/) •  
 [HackerRank](https://hackerrank.com/profile/gokulm2005)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gokul-M7&theme=react&show_icons=true&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-M7&layout=compact&theme=react&hide_border=false" height="160" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Gokul-M7&theme=react" />
-</p>
-
----
-
-## 💹 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokul-M7&theme=react-dark" />
-</p>
-
----
-
-## ⭐ Support
-If you like my work, consider starring my repositories! 🌟
