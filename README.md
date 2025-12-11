@@ -7,18 +7,13 @@
 <h3 align="center">Web Developer | Automation Enthusiast</h3>
 
 
----
+## 👨‍💻 About Me
 
-## 🚀 About Me
-- 🔭 Working on **Web Development, Automation, and Embedded Tech**
-- 🌱 Currently learning **Cloud, Backend Development, and Edge AI**
-- 👯 Looking to collaborate on **Web Apps & AI/Automation Projects**
-- 🎯 Goal: Build systems that combine **software + hardware intelligence**
+I am an Electronics and Communication Engineering student and a passionate Web Developer who enjoys building intelligent systems that blend software, hardware, and automation. I work on projects involving full-stack development AI-based tools, and real-time automation. I am constantly learning new technologies to strengthen my developer toolkit. I love creating solutions that solve real-world problems efficiently and I am always open to collaborating on exciting projects related to web development and automation. My goal is to grow into a full-stack engineer capable of developing smart, scalable, and impactful systems.
+
 - 📫 Reach me at **gokulvm2005@gmail.com**
 
----
 
-## Tech Stack
 ## 🛠️ Skills
 
 ### Programming Languages
@@ -36,15 +31,14 @@
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=opencv" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://skillicons.dev/icons?i=firebase" />
   <img src="https://skillicons.dev/icons?i=chartjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 ### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
   <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=supabase" />
 </p>
 
 ### Tools / Platforms
@@ -52,7 +46,6 @@
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=googlecloud" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 ---
@@ -80,10 +73,10 @@
 
 ## 🚀 Projects
 
-### 🔹 **Fertilizer Dispenser (ESP32 + Motors + Automation)**
+### 🔹 **Fertilizer Dispenser **
 A compact automated system that spreads fertilizer on both sides of crop rows, reducing manual effort and increasing precision.
 
-### 🔹 **EffiTrack — Real-Time Employee & Project Monitoring**  
+### 🔹 **EffiTrack**  
 Tech: **HTML, CSS, JS, Firebase**  
 A live dashboard for monitoring employee performance, task deadlines, project status & automated alerts.
 
@@ -91,7 +84,7 @@ A live dashboard for monitoring employee performance, task deadlines, project st
 
 ---
 
-### 🔹 **RescueX — Autonomous Drone Disaster Response**  
+### 🔹 **RescueX**  
 Tech: **Ardupilot, OpenCV, LLM, Raspberry Pi, ESP32**  
 Drone system for survivor detection, risk identification & aid delivery.
 
