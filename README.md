@@ -65,7 +65,7 @@ I am an Electronics and Communication Engineering student and a passionate Web D
 - **Automation Intern — ECI Systems Pvt. Ltd**  
   *Jan 2025*
 
-- **National Cadet Corps — Leading Cadet**  
+- **National Cadet Corps — Leading Cadet (2TN Naval Unit )**  
   *2023 – 2025*
 
 ---
