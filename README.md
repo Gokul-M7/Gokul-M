@@ -78,7 +78,7 @@ A compact automated system that spreads fertilizer on both sides of crop rows, r
 
 ---
 
-### 🔹Rehab Motion Tracking **  
+### 🔹Rehab Motion Tracking   
 Tech: **React,MediaPipe Pose,Supabase,CSS**  
 This project is a web-based rehabilitation motion tracking app built using React, MediaPipe Pose, and Supabase.
 The app tracks body movements using the webcam, detects exercise posture (starting with Squats), provides real-time corrective feedback, and logs session results into Supabase
